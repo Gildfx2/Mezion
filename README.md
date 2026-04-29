@@ -3,7 +3,7 @@
 Mezion is a comprehensive Android application designed to help users track, report, and find lost items using interactive maps and real-time communication. 
 
 ## 📖 Project Documentation
-**[Click here to view the full Project Book (PDF)](./Mezion_Project_Book.pdf)**
+**[Click here to view the full Project Book (PDF)](./ספר פרויקט ללא קוד - גיל כהן - מציאון.pdf)**
 
 *I highly recommend checking out the project book for an in-depth look at the system architecture, design decisions, and UI/UX flows.*
 
